@@ -94,7 +94,7 @@ python main.py
 - The program will display the existing student records.
 - Enter the stud_id of the record you want to update.
 - The program will prompt you to enter the attribute you want to change (e.g., <mark>firstname</mark>).
-- Enter the new value for the attribute (e.g., <mark>John</mark).
+- Enter the new value for the attribute (e.g., <mark>John</mark>).
 - The program will update the record in the database.
 - The updated table with the modified record will be displayed.
 
